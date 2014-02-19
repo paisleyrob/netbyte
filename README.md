@@ -5,7 +5,7 @@ Converts command line arguments through
 [htonl()](http://linux.die.net/man/3/htonl).
 
 To build issue
-```sh autoreconf -i && ./configure && make```
+```autoreconf -i && ./configure && make```
 
 Sample output on an intel (little-endian) architecture:
 
